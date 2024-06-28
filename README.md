@@ -6,7 +6,6 @@
 
 ➜ I've done some projects as a developer, a 2d game (Space Force), Websites(My porfolio), Jogo da Forca(games using terminal), and I also know sql, used to make a parkingCar register time.
 
-
 # 🎓 Skills
 
 #### Programming Languages
@@ -55,6 +54,8 @@
 <p>
   <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="25">
   <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft-edge&logoColor=0078d7" height="25">
+  <img src="https://img.shields.io/badge/Windows-282c34?logo=windows&logoColor=0078d7" height="25">
+
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,vscode,sublime,powershell,md,regex,vercel,codepen,ps,figma,stackoverflow,windows&perline=14" width="500"> -->
@@ -66,7 +67,8 @@
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:bernaheckler1@gmail.com)
 [<img src="https://img.shields.io/badge/Instagram-ff0685.svg?logo=instagram" height="25">](https://www.instagram.com/berna.hcklr/)
 [<img src="https://img.shields.io/badge/Linkedin-0047f9.svg?logo=linkedin" height="25">](https://www.linkedin.com/in/bernardo-heckler-645153305/)
-
+---
+[![BernardoHeckler's github stats](https://github-readme-stats.vercel.app/api?username=BernardoHeckler&theme=blue-green)](https://github.com/bernardoHeckler/bernardoHeckler/edit/main/README.md)
 ---
 
 [<img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6">](https://visitcount.itsvg.in)
