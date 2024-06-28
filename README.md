@@ -59,6 +59,7 @@
 [<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@heckler201?si=3rMqkEKlE5ddQy2s)
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:bernaheckler1@gmail.com)
 [<img src="https://img.shields.io/badge/Instagram-ff0685.svg?logo=instagram" height="25">](https://www.instagram.com/berna.hcklr/)
+[<img src="https://img.shields.io/badge/Linkedin-0047f9.svg?logo=linkedin" height="25">](https://www.linkedin.com/in/bernardo-heckler-645153305/)
 
 ---
 
