@@ -1,58 +1,64 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bernardo;I'm+20+years+old;I+am+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# 📰 About me
+## Bernardo Antunes Heckler 20 years
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bernardoHeckler&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=32CD32&bg_color=0d1117" alt="Bernardo Heckler github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoHeckler&layout=compact&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=000000" />
-</div>
+# 🎓 Skills
+
+#### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
+  <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="25">
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=js,ts,py,php,c,go&perline=14" width="212"> -->
+
+#### Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="25">
+  <img src="https://img.shields.io/badge/CSS-282c34?logo=css3&logoColor=0396de" height="25">
+  <br>
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=14" width="428"> -->
+
+#### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=mysql,gql,gcp&perline=14" width="104"> -->
+
+#### Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
+  <img src="https://img.shields.io/badge/GitHub-282c34?logo=github" height="25">
+</p>
+
+#### Editors
+
+<p>
+  <img src="https://img.shields.io/badge/VS Code-282c34?logo=visual-studio-code&logoColor=0078d7" height="25">
+  <img src="https://img.shields.io/badge/Sublime Text-282c34?logo=sublime-text" height="25">
+</p>
+
+#### Other Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="25">
+  <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft-edge&logoColor=0078d7" height="25">
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,vscode,sublime,powershell,md,regex,vercel,codepen,ps,figma,stackoverflow,windows&perline=14" width="500"> -->
+
+# 🌐 Socials & contact
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bernardoHeckler&bg_color=1e4200&color=04ff00&line=000000&point=00ff08&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@heckler201?si=3rMqkEKlE5ddQy2s)
+[<img src="https://img.shields.io/badge/Instagram-ece9e9.svg?logo=gmail" height="25">](mailto:bernaheckler1@gmail.com)
 
+---
 
-<div align="center"> 
-<a href="https://www.instagram.com/berna.hcklr/" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
-</a>
-
-<a href="mailto:bernaheckler1@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
-
-<a  href="https://www.linkedin.com/in/bernardo-heckler-645153305/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
-
-</div>
- 
-### Main skills:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bernardoHeckler}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+[<img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6">](https://visitcount.itsvg.in)
