@@ -1,6 +1,6 @@
 ## 👋 » Hi there
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bernardo+Heckler+and+I'm+20+years old+%F0%9F%91%8B;A+Python+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bernardo+Heckler+and+I'm+20+years old%F0%9F%91%8B;A+Python+Developer.)](https://git.io/typing-svg)
 
 # 🎓 Skills
 
