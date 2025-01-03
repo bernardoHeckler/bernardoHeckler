@@ -58,9 +58,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="35">
+  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="35">
   <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft&logoColor=0078d7" height="35">
   <img src="https://img.shields.io/badge/Windows-282c34?logo=windows&logoColor=0078d7" height="35">
   <img src="https://img.shields.io/badge/Linux-282c34?logo=kali-linux&logoColor=0078d7" height="35">
+  
 
 </p>
 
