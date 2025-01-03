@@ -1,18 +1,22 @@
 ## 👋 » Hi there
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bernardo+Heckler+%F0%9F%91%8B;A+Python+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bernardo+Heckler+%F0%9F%91%8B;A+FrontEnd+Developer.)](https://git.io/typing-svg)
 
-➜ My name is Bernardo Heckler and I'm 20 years old, a Python Developer
+➜ My name is Bernardo Heckler and I'm 20 years old, a FrontEnd Developer
 
 ➜ I've done some projects as a developer, a 2d game (Space Force), Websites(My porfolio), Jogo da Forca(games using terminal), and I also know sql, used to make a parkingCar register time.
+
+# 🖥 Portfolio
+<a href="https://bernardoheckler.github.io/home.html" color="white">BERNARDO HECKLER PORTFOLIO</a>
 
 # 🎓 Skills
 
 #### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
-  <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="25">
+  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="35">
+  <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="35">
+  <img src="https://img.shields.io/badge/ReactJS-282c34?logo=react" height="35">
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=js,ts,py,php,c,go&perline=14" width="212"> -->
@@ -20,8 +24,8 @@
 #### Front-end
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="25">
-  <img src="https://img.shields.io/badge/CSS-282c34?logo=css3&logoColor=0396de" height="25">
+  <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="35">
+  <img src="https://img.shields.io/badge/CSS-282c34?logo=css3&logoColor=0396de" height="35">
   <br>
 </p>
 
@@ -30,7 +34,8 @@
 #### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
+  <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="35">
+  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="35">
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=mysql,gql,gcp&perline=14" width="104"> -->
@@ -38,23 +43,24 @@
 #### Version Control
 
 <p>
-  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
-  <img src="https://img.shields.io/badge/GitHub-282c34?logo=github" height="25">
+  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="35">
+  <img src="https://img.shields.io/badge/GitHub-282c34?logo=github" height="35">
 </p>
 
 #### Editors
 
 <p>
-  <img src="https://img.shields.io/badge/VS Code-282c34?logo=visual-studio-code&logoColor=0078d7" height="25">
-  <img src="https://img.shields.io/badge/Sublime Text-282c34?logo=sublime-text" height="25">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-282c34.svg?logo=visual-studio-code&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Sublime Text-282c34?logo=sublime-text" height="35">
 </p>
 
 #### Other Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="25">
-  <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft-edge&logoColor=0078d7" height="25">
-  <img src="https://img.shields.io/badge/Windows-282c34?logo=windows&logoColor=0078d7" height="25">
+  <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="35">
+  <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft&logoColor=0078d7" height="35">
+  <img src="https://img.shields.io/badge/Windows-282c34?logo=windows&logoColor=0078d7" height="35">
+  <img src="https://img.shields.io/badge/Linux-282c34?logo=kali-linux&logoColor=0078d7" height="35">
 
 </p>
 
@@ -63,12 +69,12 @@
 # 🌐 Socials & contact
 
 
-[<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@heckler201?si=3rMqkEKlE5ddQy2s)
-[<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:bernaheckler1@gmail.com)
-[<img src="https://img.shields.io/badge/Instagram-ff0685.svg?logo=instagram" height="25">](https://www.instagram.com/berna.hcklr/)
-[<img src="https://img.shields.io/badge/Linkedin-0047f9.svg?logo=linkedin" height="25">](https://www.linkedin.com/in/bernardo-heckler-645153305/)
+[<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="35">](https://youtube.com/@heckler201?si=3rMqkEKlE5ddQy2s)
+[<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="35">](mailto:bernaheckler1@gmail.com)
+[<img src="https://img.shields.io/badge/Instagram-ff0685.svg?logo=instagram" height="35">](https://www.instagram.com/berna.hcklr/)
+[<img src="https://img.shields.io/badge/Linkedin-0047f9.svg?logo=linkedin" height="35">](https://www.linkedin.com/in/bernardo-heckler-645153305/)
 ---
 [![BernardoHeckler's github stats](https://github-readme-stats.vercel.app/api?username=BernardoHeckler&theme=blue-green)](https://github.com/bernardoHeckler/bernardoHeckler/edit/main/README.md)
 ---
 
-[<img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6">](https://visitcount.itsvg.in)
+[<img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6" height="35">](https://visitcount.itsvg.in)
