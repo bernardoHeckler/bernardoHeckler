@@ -83,3 +83,10 @@
 ---
 
 [<img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6" height="35">](https://visitcount.itsvg.in)
+
+
+![Now Playing](https://spotify-recently-played-readme.vercel.app/api?user=31vxhbsacqdrmuyv24un4yiz4ws4)
+
+# 📫 How to reach me?
+# bernaheckler1@gmail.com
+**I wanna build things**
