@@ -1,8 +1,4 @@
-## 👋 » Hi there
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Bernardo+Heckler+%F0%9F%91%8B;A+FrontEnd+Developer.)](https://git.io/typing-svg)
-
-➜ My name is Bernardo Heckler and I'm 20 years old, a FrontEnd Developer
+## Hello, I'm Bernardo Heckler a Front End Developer
 
 ➜ I've done some projects as a developer, a 2d game (Space Force), Websites(My porfolio), Jogo da Forca(games using terminal), and I also know sql, used to make a parkingCar register time.
 
