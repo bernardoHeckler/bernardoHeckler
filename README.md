@@ -3,7 +3,7 @@
 ➜ I've done some projects as a developer, a 2d game (Space Force), Websites(My porfolio), Jogo da Forca(games using terminal), and I also know sql, used to make a parkingCar register time.
 
 # 🖥 Portfolio
-<a href="https://bernardoheckler.github.io/home.html" color="white">BERNARDO HECKLER PORTFOLIO</a>
+<a href="https://bernardoheckler.github.io/site-pessoal/" color="white">BERNARDO HECKLER PORTFOLIO</a>
 
 # 🗎 GIT INGEST
 <p>Look at my <strong>Git Ingest</strong> about my portfolio page structure 👇👇👇 </p><a href="https://gitingest.com/bernardoHeckler/bernardoHeckler.github.io" color="white">Click Here!</a>
