@@ -1,5 +1,6 @@
 
-<h1 align="left">Bernardo Antunes Heckler</h1>
+<h1 align="left">Olá, Eu sou o Bernardo Antunes Heckler - Full Stack Developer</h1>
+<h3 align="left">Acesse meu Portfólio Online: <a href="https://bernardoheckler.github.io/site-pessoal/">Clicando aqui!</a></h3>
 
 
 
@@ -13,6 +14,8 @@ Atualmente estou fazendo Faculdade na Atitus Educação.
 Como Desenvolvedor Full Stack, meu objetivo é construir soluções digitais completas. Tenho um foco especial na criação de APIs eficientes e no desenvolvimento de interfaces modernas e responsivas, aplicando sempre as melhores práticas de mercado.
 
 Com experiência em JavaScript/TypeScript, React, Node.js e diferentes tipos de bancos de dados, minha paixão é desenvolver aplicações que proporcionem uma experiência de usuário cativante e intuitiva, transformando código em interações significativas.
+
+
 
 <h2 align="left">Stats: </h2>
 
