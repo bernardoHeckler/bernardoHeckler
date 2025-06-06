@@ -49,17 +49,27 @@ Com experiência em JavaScript/TypeScript, React, Node.js e diferentes tipos de 
   <!-- <img src="https://img.shields.io/badge/SQLite-181920?style=for-the-badge&logo=sqlite&logoColor=00FFB2" alt="SQLite" /> -->
   <img src="https://img.shields.io/badge/MySQL-181920?style=for-the-badge&logo=mysql&logoColor=7CFC00" alt="MySQL" />
   <!-- <img src="https://img.shields.io/badge/MariaDB-181920?style=for-the-badge&logo=mariadb&logoColor=00FFB2" alt="MariaDB" /> -->
-  <!-- <img src="https://img.shields.io/badge/Firebase-181920?style=for-the-badge&logo=firebase&logoColor=7CFC00" alt="Firebase" /> -->
-
+  <!-- <img src="https://img.shields.io/badge/Firebase-181920?style=for-the-badge&logo=firebase&logoColor=7CFC00" alt="Firebase" /> -->  
+  <img src="https://img.shields.io/badge/Next.js-181920?style=for-the-badge&logo=next.js&logoColor=00FFB2" alt="Next.js" />
   
   <br/>
-  
-  <img src="https://img.shields.io/badge/Next.js-181920?style=for-the-badge&logo=next.js&logoColor=00FFB2" alt="Next.js" />
+
   <img src="https://img.shields.io/badge/React-181920?style=for-the-badge&logo=react&logoColor=7CFC00" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-181920?style=for-the-badge&logo=node.js&logoColor=00FFB2" alt="Node.js" />
   <!-- <img src="https://img.shields.io/badge/Django-181920?style=for-the-badge&logo=django&logoColor=7CFC00" alt="Django" /> -->
   <!-- <img src="https://img.shields.io/badge/FastAPI-181920?style=for-the-badge&logo=fastapi&logoColor=00FFB2" alt="FastAPI" /> -->
   <img src="https://img.shields.io/badge/SpringBoot-181920?style=for-the-badge&logo=springboot&logoColor=00FFB2" alt="Spring Boot" />
+
+  <br/>
+  
+  <img src="https://img.shields.io/badge/IDE-181920?style=for-the-badge&logo=eclipse" alt="Eclipse IDE" >
+  <img src="https://img.shields.io/badge/Postman-181920?style=for-the-badge&logo=postman" alt="Postman">
+  <img src="https://img.shields.io/badge/Git-181920?style=for-the-badge&logo=git" alt="Git" >
+  <img src="https://img.shields.io/badge/Git%20hub-181920?style=for-the-badge&logo=github" alt="Git Hub" >
+
+
+
+
   </div>
 </div>
 <br><br> 
