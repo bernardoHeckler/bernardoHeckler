@@ -1,6 +1,6 @@
 
 <h1 align="left">Olá, Eu sou o Bernardo Antunes Heckler - Full Stack Developer</h1>
-<h3 align="left">Acesse meu Portfólio Online: <a href="https://bernardoheckler.github.io/site-pessoal/">Clicando aqui!</a></h3>
+<h3 align="left">Acesse meu Portfólio Online: <a href="https://bernardoheckler.github.io/site-pessoal/">Clicando aqui!</a>🖥️</h3>
 
 
 
@@ -15,9 +15,15 @@ Como Desenvolvedor Full Stack, meu objetivo é construir soluções digitais com
 
 Com experiência em JavaScript/TypeScript, React, Node.js e diferentes tipos de bancos de dados, minha paixão é desenvolver aplicações que proporcionem uma experiência de usuário cativante e intuitiva, transformando código em interações significativas.
 
+<h3 align="left">Minhas Redes Sociais e Contato 🌐</h3>
 
 
-<h2 align="left">Stats: </h2>
+[<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="35">](https://youtube.com/@heckler201?si=3rMqkEKlE5ddQy2s)
+[<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="35">](mailto:bernaheckler1@gmail.com)
+[<img src="https://img.shields.io/badge/Instagram-ff0685.svg?logo=instagram" height="35">](https://www.instagram.com/berna.hcklr/)
+[<img src="https://img.shields.io/badge/Linkedin-0047f9.svg?logo=linkedin" height="35">](https://www.linkedin.com/in/bernardo-heckler-645153305/)
+
+<h2 align="left">Estatísticas: </h2>
 
 
 
@@ -33,7 +39,7 @@ Com experiência em JavaScript/TypeScript, React, Node.js e diferentes tipos de 
 
 
 <div align="center">
-  <h2 align="left">&nbsp;Stacks: </h2>
+  <h2 align="left">&nbsp;Pacote de Tecnologias e Ferramentas: </h2>
   <br>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 18px;">
 
