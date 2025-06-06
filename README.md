@@ -3,7 +3,7 @@
 
 
 
-<img align="right" height="210" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/2351090/75435e9cbc718b2edeec23c1b008f81a2dca013e.webm"  />
+<img align="right" height="210" src="assets/green-alien.png"  />
 
 
 <p align="justify">
