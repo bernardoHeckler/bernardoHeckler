@@ -9,11 +9,13 @@
 
 <p align="justify">
 
-Atualmente estou fazendo Faculdade na Atitus Educação.
+Sou um Acadêmico de Ciências da Computação e Autodidata.
+  
+Atuo como Estagiário em Engenharia de Dados na Compass UOL, no apoio à coleta, tratamento e organização de dados, colaborando com o time para construir pipelines e garantir a qualidade das informações.
 
-Como Desenvolvedor Full Stack, meu objetivo é construir soluções digitais completas. Tenho um foco especial na criação de APIs eficientes e no desenvolvimento de interfaces modernas e responsivas, aplicando sempre as melhores práticas de mercado.
+Participo ativamente das Sprints, ajudando na entrega das tarefas dentro do prazo e acompanhando o fluxo no Kanban.
 
-Com experiência em JavaScript/TypeScript, React, Node.js e diferentes tipos de bancos de dados, minha paixão é desenvolver aplicações que proporcionem uma experiência de usuário cativante e intuitiva, transformando código em interações significativas.
+Utilizo Python, Pandas, MatPlotLib, Numpy e SQL para análise de dados, além de documentar processos e aprender diariamente sobre ETL, bancos de dados e boas práticas de engenharia de dados.
 
 <h3 align="left">Minhas Redes Sociais e Contato 🌐</h3>
 
