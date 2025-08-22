@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá, Eu sou o Bernardo Antunes Heckler - Full Stack Developer</h1>
+<h1 align="left">Olá, Eu sou o Bernardo Antunes Heckler - Engenheiro de Dados</h1>
 <h3 align="left">Acesse meu Portfólio Online: <a href="https://bernardoheckler.github.io/site-pessoal/">Clicando aqui!</a>🖥️</h3>
 
 
