@@ -1,20 +1,10 @@
-<h1 align="left">Olá, Eu sou o Bernardo Antunes Heckler - Engenheiro de Dados</h1> <h3 align="left">Acesse meu Portfólio Online: <a href="https://bernardoheckler.github.io/site-pessoal/">Clicando aqui!</a>🖥️</h3> <img align="right" height="210" src="assets/green-alien.png" /> <p align="justify">
+<h1 align="left">Olá, Eu sou o Bernardo Heckler | Data Engineering & Software Development</h1> <h3 align="left">Acesse meu Portfólio Online: <a href="https://bernardoheckler.github.io/site-pessoal/">Clicando aqui!</a>🖥️</h3> <img align="right" height="210" src="assets/green-alien.png" /> <p align="justify">
 
-Sou um Acadêmico de Ciências da Computação e Autodidata.
+Acadêmico de Ciência da Computação (5º/8º Semestre) na Atitus Educação, focado em construir a infraestrutura que move o mundo digital.
 
-Atualmente, atuo como Estagiário em Engenharia de Dados na Compass UOL, onde recebo Desafios para fazer a coleta, tratamento e organização dos dados, contribuindo diretamente com meu aprendizado durante este Estágio.
+Como Engenheiro de Dados: Realizo construções de pipelines de ETL ponta a ponta utilizando Python (Pandas, NumPy, PySpark), SQL (PostgreSQL, MySQL) e o ecossistema AWS (S3, Lambda, Glue, Athena, QuickSight).
 
-Participo ativamente das Sprints e do fluxo de tarefas, colaborando com o Squad para o cumprimento dos prazos e evolução contínua dos projetos.
-
-Tenho experiência prática com Python, utilizando bibliotecas como Pandas, NumPy, Matplotlib e PySpark para análise e transformação de dados. Também aplico SQL no acesso e manipulação de bancos relacionais como PostgreSQL e MySQL.
-
-Também aprendo constantemente a trabalhar com Docker, incluindo orquestração com Docker Swarm e noções de Kubernetes, focando na criação de ambientes replicáveis, escaláveis e eficientes para aplicações de dados.
-
-Tenho conhecimentos em serviços AWS, especialmente no uso de buckets S3 para armazenamento e movimentação de dados, integrando esse recurso em fluxos de ETL e pipelines.
-
-Além disso, mantenho um perfil Full Stack, com domínio de tecnologias como JavaScript, TypeScript, React e Next.js, além de experiência com React Native, desenvolvendo aplicações móveis e interfaces modernas.
-
-Meu objetivo é seguir evoluindo como Engenheiro de Dados, unindo conhecimentos em desenvolvimento de software, cloud computing e boas práticas em engenharia de dados para criar soluções robustas, escaláveis e orientadas à entrega de valor.
+Em Software Development: Experiência em desenvolvimento mobile e web com React Native, React e Java. Experiência prática na criação de APIs RESTful e integração com Supabase.
 
 </p>
 
