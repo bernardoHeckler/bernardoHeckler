@@ -1,4 +1,4 @@
-<h1 align="left">Olá, Eu sou o Bernardo Heckler | Data Engineering & Software Development</h1> <h3 align="left">Acesse meu Portfólio Online: <a href="https://bernardoheckler.github.io/site-pessoal/">Clicando aqui!</a>🖥️</h3> <img align="right" height="210" src="assets/green-alien.png" /> <p align="justify">
+<h1 align="left">Olá, Eu sou o Bernardo Heckler | Data Engineering & Software Development</h1> <h3 align="left">Acesse meu Portfólio Online: <a href="https://bernardoheckler.github.io/site-pessoal/">Clicando aqui!</a>🖥️</h3> <p align="justify">
 
 Acadêmico de Ciência da Computação (5º/8º Semestre) na Atitus Educação, focado em construir a infraestrutura que move o mundo digital.
 
